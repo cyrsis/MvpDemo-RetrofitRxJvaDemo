@@ -6,7 +6,7 @@
    1、MvpDemo  （一个简单的MVP架构的demo）
    
    
-   2、RetrofitRxJavaDemo   (一个使用RxJava + Retrofit 的小demo)
+ 2、RetrofitRxJavaDemo   (一个使用RxJava + Retrofit 的小demo)
 
 
 
