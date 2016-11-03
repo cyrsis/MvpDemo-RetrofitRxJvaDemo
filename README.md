@@ -1,8 +1,8 @@
 # MvpDemo+RetrofitRxJavaDemo
 
   ## 该工程包括 ：
-            1、MvpDemo  （一个简单的MVP架构的demo）
-            2、RetrofitRxJavaDemo   (一个使用RxJava + Retrofit 的小demo)
+   1、MvpDemo  （一个简单的MVP架构的demo）
+   2、RetrofitRxJavaDemo   (一个使用RxJava + Retrofit 的小demo)
 
 
 
